@@ -8,6 +8,8 @@ Link: [Aplicación de Productos con Javascript Orientado a Objetos - YouTube](ht
 
 ## Description
 
+Simple Javascript application to add products.
+
 Main Actions: 
 
 + Create a product
